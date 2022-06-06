@@ -6,5 +6,6 @@ texto simples
 
 duas cenouras
 tres batatas
-
+leite
+sal a gosto
 
